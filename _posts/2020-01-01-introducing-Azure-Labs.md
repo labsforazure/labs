@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Labs For Azure - Introduction
-categories: [Miscellaneous, Jekyll]
+categories: [Azure, Labs]
 ---
 
 Hello,Labs For Azure is created to share with the community labs about Azure. These labs will help to learn a topic about Azure. As I read once, by the community, for the community.
