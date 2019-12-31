@@ -1,9 +1,15 @@
-Hello, Azure Labs is created to share with the community labs about Azure. These labs will help to learn a topic about Azure. As I read once, by the community, for the community.
+---
+layout: post
+title: Labs For Azure - Introduction
+categories: [Miscellaneous, Jekyll]
+---
 
-This is how you can share your own lab with the community.
+Hello,Labs For Azure is created to share with the community labs about Azure. These labs will help to learn a topic about Azure. As I read once, by the community, for the community.
+
+This is how you can share your own lab with the community :
 
 #  Share your Azure Lab
-First, Azure Labs was made using "Jekyll" and github pages. In other words, you just have to create a "markdown" (something like this one) and share it with the community so everyone can learn.
+First, Labs For Azure was made using "Jekyll" and github pages. In other words, you just have to create a "markdown" (something like this one) and share it with the community so everyone can learn.
 
 ## Step 1 : Organize the markdown file
 Your markdown file needs a specified organization : 
@@ -20,3 +26,5 @@ all the attachments need their own directory on static file. let's assume that I
 Everything is ready, you need push your lab on Azure Labs. You have to pass through a Pull Request so someone can check its architecture and validate it and tataaaam your lab is online.
 
 ### By the community, For the community
+
+
